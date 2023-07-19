@@ -1,13 +1,10 @@
 
-
-
 function App() {
   
 
   return (
     <>
-      <h1>Thiago</h1>
-      
+      <h1>Thiago</h1>   
     </>
   )
 }
